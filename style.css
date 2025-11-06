@@ -1,0 +1,22 @@
+body {
+    color: #000000;
+    background-color: yellow
+}
+
+#page {
+    width: 80%;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#about-me {
+    background-color: hsla(0, 0%, 0%, 0.2);
+}
+#works {
+    background-color: hsla(0, 0%, 0%, 0.3);
+}
+#contacts {
+    background-color: hsla(0, 0%, 0%, 0.4);
+}
